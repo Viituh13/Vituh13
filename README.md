@@ -1,26 +1,29 @@
-## Bem-vindo(a) ao perfil do Vitor 😁
+# 👋 Olá, eu sou Vitor Almeida
 
- <div>
-   <a href="https://github.com/Viituh13/projetos-Vitor-Almeida-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viituh13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viituh13&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-          
-</div>
- 
-<br>
- 
-### Minhas redes sociais abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/v1tuh_?igsh=MW5iNzdnMHBmc21seg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=wheit" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-almeida-246175262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 💼 Perfil Profissional
+
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando ADS - Universidade da Cidade De São Paulo
+
+##  Habilidades
+
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+##  Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,php,c,cpp)](https://skillicons.dev)
+
+##  Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,django,docker,gradle)](https://skillicons.dev)
+
+##  Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,aws,sqlite,postgres)](https://skillicons.dev)
+##  Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
+
+##  Contato
+
+![Gmail Badge](https://img.shields.io/badge/-{vitoralmeida.dms@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{vitoralmeida.dms@gmail.com})
+[![Linkedin:Vitor Almeida](https://img.shields.io/badge/-Vitor_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/vitor-almeida-de-meira-santos/)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
