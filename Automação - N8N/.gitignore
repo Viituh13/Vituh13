@@ -1,0 +1,14 @@
+# Docker volumes
+mysql_data/
+postgres_data/
+n8n_data/
+
+# logs
+*.log
+
+# sockets
+*.sock
+
+# sistema operacional
+.DS_Store
+Thumbs.db

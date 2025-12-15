@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: n8n_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: empresa
+      MYSQL_USER: n8n
+      MYSQL_PASSWORD: n8n123
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+
+  n8n:
+    image: n8nio/n8n
+    container_name: n8n_app
+    restart: always
+    ports:
+      - "5678:5678"
+    environment:
+      DB_TYPE: mysql
+      DB_MYSQLDB_HOST: db
+      DB_MYSQLDB_PORT: 3306
+      DB_MYSQLDB_DATABASE: empresa
+      DB_MYSQLDB_USER: n8n
+      DB_MYSQLDB_PASSWORD: n8n123
+      GENERIC_TIMEZONE: America/Sao_Paulo
+    depends_on:
+      - db
+    volumes:
+      - ./n8n_data:/home/node/.n8n
+
